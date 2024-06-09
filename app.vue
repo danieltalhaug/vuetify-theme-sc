@@ -11,7 +11,7 @@ const components = [
     variants: ['elevated', 'flat', 'tonal', 'outlined', 'text', 'plain'],
   }
 ];
-const colors = ['primary', 'success', 'warning', 'error', 'info'];
+const colors = ['primary', 'success', 'warning', 'error'];
 </script>
 
 <template>
