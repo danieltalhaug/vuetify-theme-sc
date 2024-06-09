@@ -6,7 +6,7 @@ import { smartcraftLight } from '@/themes';
 export default defineNuxtPlugin((app) => {
   const vuetify = createVuetify({
     theme: {
-        // defaultTheme: 'smartcraftLight',
+        defaultTheme: 'smartcraftLight',
         themes: {
             smartcraftLight,
         },
